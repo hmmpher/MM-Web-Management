@@ -35,7 +35,7 @@ To get a local copy up and running, follow these steps:
 2. Navigate to project directory:
 
    ```bash
-   cd MM-Web-Management/mm-web
+   cd .../mm-web
 
 3. Install dependencies
 
