@@ -34,15 +34,28 @@ To get a local copy up and running, follow these steps:
 
 2. Navigate to project directory:
 
-   ``bash
+   ```bash
    cd MM-Web-Management/mm-web
 
 3. Install dependencies
 
-   ``bash
+   ```bash
    npm install
 
 ## Running the App
+
+To start the development server, run:
+
+   ```bash
+   npm start
+This will open the app in your browser at http://localhost:3000
+```
+
+For production builds, run:
+
+   ```bash
+   npm run build
+   
 
 
 
