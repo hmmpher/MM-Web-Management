@@ -48,8 +48,9 @@ To start the development server, run:
 
    ```bash
    npm start
-This will open the app in your browser at http://localhost:3000
 ```
+This will open the app in your browser at http://localhost:3000
+
 
 For production builds, run:
 
