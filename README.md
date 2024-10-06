@@ -31,3 +31,18 @@ To get a local copy up and running, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/MM-Web-Management.git
+
+2. Navigate to project directory:
+
+   ``bash
+   cd MM-Web-Management/mm-web
+
+3. Install dependencies
+
+   ``bash
+   npm install
+
+## Running the App
+
+
+
