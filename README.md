@@ -4,7 +4,7 @@ MM Web Management is a web application designed for managing maintenance records
 
 ## Features
 
-- **TODO: Add and View Maintenance Records:** Allows users to create and view maintenance records.
+- **Add and View Maintenance Records:** Allows users to create and view maintenance records.
 - **Firebase Integration:** The app uses Firebase for backend and real-time data storage.
 - **React Router:** For navigation between different pages within the app.
 - **TODO: Responsive UI:** The application is built to be responsive and mobile-friendly.
